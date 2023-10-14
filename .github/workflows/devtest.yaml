@@ -103,7 +103,7 @@ name: Retrieve Package Names from Google Play Console
 on:
   push:
     branches:
-      - main
+      - test-dev
 
 jobs:
   get-package-names:
